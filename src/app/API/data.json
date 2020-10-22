@@ -1,0 +1,197 @@
+{
+  "ourBlogs": [
+    {
+      "heading": "Innovative Strategies",
+      "imageUrl": "das",
+      "likes": 21231,
+      "description": " The cognitive analysis is 95% of the market. We go beyond with our understanding and practice of feelings and observing patterns, and characteristics of market and stocks",
+      "comments": 10,
+      "category": ""
+    },
+    {
+      "heading": "Wide Use of Instruments",
+      "imageUrl": "das",
+      "likes": 21231,
+      "description": "Derivatives form a big part of portfolios. Why be limited to just going long securities, when we can go short, hedge, leverage and earn extra income",
+      "comments": 21,
+      "category": ""
+    },
+    {
+      "heading": "Psychology of Trading",
+      "imageUrl": "das",
+      "likes": 21231,
+      "description": "",
+      "comments": 31,
+      "category": ""
+    }
+  ],
+  "whoWeAreGrid": [
+    {
+      "heading": "Money Managers",
+      "description": "Committed towards growing our own personal wealth together with other like-minded investor-clients."
+    },
+    {
+      "heading": "Best in the game",
+      "description": "Committed towards continually sharpening our skills; evolve and learn to stay ahead of the game."
+    },
+    {
+      "heading": "Offering Simple Sophistication",
+      "description": "Committed towards demystifying and offering sophisticated investments in simple, accessible structures."
+    }
+  ],
+  "ourStyleGrid": [
+    {
+      "heading": "Innovative",
+      "description": " Using all available tools and instruments at our disposal to express our investment views."
+    },
+    {
+      "heading": "Open and Curious",
+      "description": "Being nimble and adaptive to the continuously dynamic investment markets."
+    },
+    {
+      "heading": "Realists",
+      "description": "Not being mere passive optimistic long term investors but actively protect capital from vagaries of human psychology, emotions and flippancy, where necessary."
+    }
+  ],
+  "ourTeamBlog": [
+    {
+      "name": "WAI-YEE CHEN",
+      "designation": "Principal and Portfolio Manager",
+      "quotation": "Leads in Portfolio strategies, themes and stock picks. Sets risk and reward criteria and position sizing.  Upholder of trading criteria and discipline. Over twenty years in stockbroking, trading and managing equities and derivatives portfolios. ASX Derivatives 1 and 2, M.App. Fin., ex-CPA.",
+      "imageUrl": "images/WebsiteImages/waiyeechein.png",
+      "facebookLink": "",
+      "twitterLink": "",
+      "instagramLink": "",
+
+      "emailLink": ""
+    },
+    {
+      "name": "Investor Services ",
+      "designation": "Advisor",
+      "quotation": "An Investor Services Adviser with minimum 5 years experience. Assisting Investors, customising portfolios and implementing trading ideas",
+      "imageUrl": "images/WebsiteImages/InvestorServicesAdviser.png",
+      "facebookLink": "",
+      "twitterLink": "",
+      "instagramLink": "",
+
+      "emailLink": ""
+    },
+    {
+      "name": "Operational Executive",
+      "designation": "Operations",
+      "quotation": "Making sure everything works and operating smoothly",
+      "imageUrl": "images/WebsiteImages/OperationalExecutive.png",
+      "facebookLink": "",
+      "twitterLink": "",
+      "instagramLink": "",
+
+      "emailLink": ""
+    }
+  ],
+  "productAndServicesBlog": [
+    {
+      "heading": "Managed Portfolios",
+      "description": "Choice of Equity Plus and Tactical(predominantly S&P/ASX 300 exposure).",
+      "imageUrl": ""
+    },
+    {
+      "heading": "Customised Portfolios or Add-Ons",
+      "description": "International Equities, sophisticated derivatives strategies, IPOs, placements, private equity investments.",
+      "imageUrl": ""
+    },
+    {
+      "heading": "Stockbroking needs",
+      "description": "Corporates - Share sale facilities, block trades, crossing, Creeping, etc.",
+      "imageUrl": ""
+    }
+  ],
+  "homeClientBlog": [
+    {
+      "imageUrl": "images/clients/9.png"
+    },
+    {
+      "imageUrl": "images/clients/9.png"
+    },
+    {
+      "imageUrl": "images/clients/9.png"
+    }
+  ],
+  "howWeInvestBlog": [
+    {
+      "heading": "Read the markets"
+    },
+    {
+      "heading": "Strategies"
+    },
+    {
+      "heading": "Find ideas"
+    },
+    {
+      "heading": "Filter ideas according to set criteria"
+    },
+    {
+      "heading": "Determine the appropriate investment instrument(s)"
+    },
+    {
+      "heading": "Calculate their risk and reward ratios"
+    },
+    {
+      "heading": "Implement/Discard ideas"
+    },
+    {
+      "heading": "Monitor Portfolios"
+    },
+    {
+      "heading": "Cut losses/Take profits"
+    },
+    {
+      "heading": "Manage hedges"
+    },
+    {
+      "heading": "Do 1-10 all overall again"
+    }
+  ],
+  "homeBookBlog": [
+    {
+      "urlAddress": "https://www.goodreads.com/en/book/show/16648999-neuroinvesting",
+      "heading":"Neuroinvesting: Build a New Investing Brain"
+    },
+    {
+      "urlAddress": "https://jeffreymschwartz.com/book-endorsements/"
+    },
+    {
+      "urlAddress": "https://optionswise.wordpress.com/about/",
+      "heading":"OptionsWise"
+    },
+    {
+      "urlAddress": "https://www.scribd.com/author/233594588/Wai-Yee-Chen/books-authored",
+      "heading":"OptionsWise"
+    },
+    {
+      "urlAddress":"http://www.eslite.com/Search_BW.aspx?query=Wai-Yee+Chen",
+      "heading":"OptionsWise"
+    }
+  ],
+  "homeVideoBlog":[
+    {
+      "urlAddress":"https://www.youtube.com/watch?v=XRQfqO0l-6U",
+      "heading":""
+    },
+    {
+      "urlAddress":"https://www.youtube.com/watch?v=EWRcoQ3XntA",
+      "heading":""
+    },
+    {
+      "urlAddress":"https://www.youtube.com/watch?v=N7EGxJWQ8MM",
+      "heading":""
+    },
+    {
+      "urlAddress":"https://www.youtube.com/watch?v=aGg3g64LM9M",
+      "heading":""
+    },
+    {
+      "urlAddress":"https://www.youtube.com/watch?v=PQM0gFB7zok",
+      "heading":""
+    }
+  ]
+}
