@@ -13,6 +13,8 @@ export default function Test() {
       </div>
       <div data-src="images/WebsiteImages/Hero2.png">
         <p>Slider 2</p>
+
+        
       </div>
     </AwesomeSlider>
   );
