@@ -5,7 +5,7 @@ import Home from "../../Pages/Home";
 export default function Header() {
   return (
     <header id="header" data-fullwidth="true" className="header-alternative">
-      <div className="header-inner">
+      <div className="header-inn er">
         <div className="container">
           {/*Logo*/}
           <a>
