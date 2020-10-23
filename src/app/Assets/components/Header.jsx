@@ -8,14 +8,14 @@ export default function Header() {
       <div className="header-inner">
         <div className="container">
           {/*Logo*/}
-          <Link>
+          <a>
             <div id="logo">
-              <Link to="/" href="index.html" onClick={<Home />}>
+              <a to="/" href="/">
                 <img src="" className="logo-default" />
                 <img src="" className="logo-dark" />
-              </Link>
+              </a>
             </div>
-          </Link>
+          </a>
           {/*End: Logo*/}
 
           {/*Navigation Resposnive Trigger*/}
