@@ -5,17 +5,17 @@ import Home from "../../Pages/Home";
 export default function Header() {
   return (
     <header id="header" data-fullwidth="true" className="header-alternative">
-      <div className="header-inn er">
+      <div className="header-inner">
         <div className="container">
           {/*Logo*/}
-          <a>
+          <Link >
             <div id="logo">
               <a to="/" href="/">
                 <img src="" className="logo-default" />
                 <img src="" className="logo-dark" />
               </a>
             </div>
-          </a>
+          </Link>
           {/*End: Logo*/}
 
           {/*Navigation Resposnive Trigger*/}
