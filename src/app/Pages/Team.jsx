@@ -132,7 +132,7 @@ export default function Team(props) {
             >
               {/* Testimonials item */}
               <div className="testimonial-item">
-                <img src="images/team/9.jpg" alt="" />
+                <img src="images/WebsiteImages/waiyeechein.png" alt="" />
                 <p>
                   Polo is by far the most amazing template out there! I
                   literally could not be happier that I chose to buy this
@@ -144,7 +144,7 @@ export default function Team(props) {
               {/* end: Testimonials item*/}
               {/* Testimonials item */}
               <div className="testimonial-item">
-                <img src="images/team/9.jpg" alt="" />
+                <img src="images/WebsiteImages/waiyeechein.png" alt="" />
                 <p>
                   Polo is by far the most amazing template out there! I
                   literally could not be happier that I chose to buy this
@@ -156,7 +156,7 @@ export default function Team(props) {
               {/* end: Testimonials item*/}
               {/* Testimonials item */}
               <div className="testimonial-item">
-                <img src="images/team/9.jpg" alt="" />
+                <img src="images/WebsiteImages/waiyeechein.png" alt="" />
                 <p>
                   The world is a dangerous place to live; not because of the
                   people who are evil, but because of the people who don't do
